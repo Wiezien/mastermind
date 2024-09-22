@@ -10,3 +10,4 @@ else:
     attempts = 0
 
     while (n != num):
+        attempts += 1
