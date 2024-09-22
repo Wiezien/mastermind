@@ -11,3 +11,6 @@ else:
 
     while (n != num):
         attempts += 1
+
+        count = 0
+    
