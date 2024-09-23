@@ -18,4 +18,6 @@ else:
 
         num = str(num)
 
+        correct = ['X']*4
+
     
