@@ -13,4 +13,9 @@ else:
         attempts += 1
 
         count = 0
+
+        n = str(n)
+
+        num = str(num)
+
     
