@@ -20,4 +20,6 @@ else:
 
         correct = ['X']*4
 
+        for i in range(0, 4):
+
     
