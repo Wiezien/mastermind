@@ -23,5 +23,6 @@ else:
         for i in range(0, 4):
 
             if (n[i] == num[i]):
+                count += 1
 
     
