@@ -30,3 +30,5 @@ else:
 
         print("Not quite the number. But you did get ",
                   count, " digit(s) correct!")
+        
+        n = int(input("Enter your next choice of numbers: "))
