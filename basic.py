@@ -28,4 +28,5 @@ else:
             else:
                 continue
 
-    
+        print("Not quite the number. But you did get ",
+                  count, " digit(s) correct!")
