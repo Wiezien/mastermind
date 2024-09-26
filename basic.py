@@ -25,5 +25,7 @@ else:
             if (n[i] == num[i]):
                 count += 1
                 correct[i] = n[i]
+            else:
+                continue
 
     
