@@ -28,9 +28,12 @@ else:
             else:
                 continue
 
-        print("Not quite the number. But you did get ",
+        if (count < 4) and (count != 0):
+            print("Not quite the number. But you did get ",
                   count, " digit(s) correct!")
         
         print('\n')
         print('\n')
         n = int(input("Enter your next choice of numbers: "))
+
+       
