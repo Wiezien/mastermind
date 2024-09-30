@@ -34,5 +34,8 @@ else:
         print('\n')
         print('\n')
         n = int(input("Enter your next choice of numbers: "))
-
+        
+    if (count == 0):
+      print("None of the numbers in your input match.")
+      n = int(input("Enter your next choice of numbers: "))
        
