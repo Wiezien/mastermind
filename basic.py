@@ -39,3 +39,5 @@ else:
       print("None of the numbers in your input match.")
       n = int(input("Enter your next choice of numbers: "))
        
+    if n == num:
+        attempts+=1
