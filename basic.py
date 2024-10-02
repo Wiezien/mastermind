@@ -42,3 +42,4 @@ else:
     if n == num:
         attempts+=1
         print("You've become a Mastermind!")
+        print("It took you only", attempts, "tries.")
